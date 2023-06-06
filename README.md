@@ -1,2 +1,5 @@
-# Inventory-Tracker
-An inventory tracker built in Python Django that allows companies ton track their inventory and costs.
+# Inventory Tracker
+An inventory tracker that allows companies to track their current stock and costs.
+
+## Technologies
+Built in Python Django.
